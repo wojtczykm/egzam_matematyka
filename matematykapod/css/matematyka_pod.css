@@ -1,0 +1,67 @@
+﻿
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+#kontener {;
+
+	
+}
+
+
+#baner {
+	width:96%;
+	margin-left:20px;
+	
+}
+
+.foto {width:100%;
+border-left:2px solid black;
+border-top:2px solid black;
+border-right:2px solid black;
+margin-left:2px;
+margin-top:2px;
+	
+}
+
+#kolumny {width:97.85%;
+margin-left:24px;
+margin-top:-2px;}
+
+#lewa {width:38%;
+outline:2px solid black;
+
+height:320px;
+float:left;
+
+}
+
+#lewa .p {margin-top:40px;}
+p {
+	font-family:Times New Roman, sans-serif;
+    font-size:28px;
+	margin-left:30px;
+	margin-top:4px;
+}
+
+#prawa {width:60%;
+float:left;
+height:320px;
+border:2px solid black;
+margin-top:-2px;
+overflow:scroll;
+}
+
+
+#prawa .p {margin-top:40px;
+}
+
+a {
+    color:black;
+    text-decoration:none;
+}
+a:hover {
+    text-decoration:none;
+}
